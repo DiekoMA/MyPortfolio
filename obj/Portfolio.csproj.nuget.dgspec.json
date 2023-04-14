@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\Portfolio.csproj": {}
+    "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\Portfolio.csproj": {
+    "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\Portfolio.csproj",
+        "projectPath": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\Dieko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\obj\\",
+        "outputPath": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuxWy6ftehciBuZT3T463KRjWsm/tFVTxI0Tr86W2nVHbqix4lbEUdTLCnzu+6jXPGkBjmBfiq3Pjad2UypmVg==",
+  "dgSpecHash": "QbxVyeaIKRLcNrEAGK32pBIEl5X+BvREZHji2VAUSVly+8q1zRQb7WB37qwy1tVeITcKGYaxCVz1f9mToZGJWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\Portfolio.csproj",
+  "projectFilePath": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\Portfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dieko\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "C:\\Users\\Dieko\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\microsoft.aspnetcore.components.6.0.7.nupkg.sha512",

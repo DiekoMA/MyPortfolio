@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\obj\\Debug\\net6.0\\build-gz\\nuUR+f7M.gz",
+      "Id": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\obj\\Debug\\net6.0\\build-gz\\nuUR+f7M.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Dieko\\RiderProjects\\Portfolio\\Portfolio\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\Dieko\\Desktop\\MyPortfolio\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
